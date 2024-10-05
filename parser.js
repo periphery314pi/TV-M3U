@@ -106,9 +106,9 @@ document.addEventListener('DOMContentLoaded', () => {
     alertMessage.style.display = 'flex'; // Show alert message
   }
 });
-if (window.location.hostname !== 'azrotv.com') {
+if (window.location.hostname !== 'player-drm.vercel.app') {
   setTimeout(function() {
-    window.location.href = 'https://azrotv.com';
+    window.location.href = 'https://player-drm.vercel.app';
   }, 15000);
 }
  //debogger
