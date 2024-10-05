@@ -25,7 +25,7 @@ document.querySelector('.share-button').addEventListener('click', function() {
     const base64Link = btoa(finalLink);
 
     // Build the full link
-    const fullLink = `https://azrotv.com/extras/shaka-player/?id=${base64Link}`;
+    const fullLink = `https://player-drm.vercel.app/extras/shaka-player/?id=${base64Link}`;
 
     // Copy the link to clipboard
     navigator.clipboard.writeText(fullLink).then(() => {
