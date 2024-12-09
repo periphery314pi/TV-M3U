@@ -27,6 +27,27 @@ http://gcf.nrslist.com:80/TVD4062/index.mpd
 #EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
 http://gcf.nrslist.com:80/TVD4063/index.mpd
 
+
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport HD 1-AR
+https://alraqi.ddns.net/Bein1/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport HD 2-AR
+https://alraqi.ddns.net/Bein2/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport HD 3-AR
+https://alraqi.ddns.net/Bein3/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 4-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sport HD 4-AR
+https://alraqi.ddns.net/Bein4/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 5-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sport HD 5-AR
+https://alraqi.ddns.net/Bein5/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 6-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN Sport HD 6-AR
+https://alraqi.ddns.net/Bein6/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 7-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sport HD 7-AR
+https://alraqi.ddns.net/Bein7/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 8" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",beIN Sport HD 8
+https://alraqi.ddns.net/Bein8/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 9" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN Sport HD 9
+https://alraqi.ddns.net/Bein9/video.m3u8?token=R5mHy1NkEw-alraqi
+
+
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sports AFC" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",beIN Sports AFC
 #EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
 http://gcf.nrslist.com:80/TVD4064/index.mpd
