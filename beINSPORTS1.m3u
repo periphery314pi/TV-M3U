@@ -1,0 +1,6 @@
+#EXTM3U8
+#EXTINF:beIN SPORTS 1 
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+#EXTVLCOPT:http-token=Live
+#EXTVLCOPT:http-user-agent=MejarServer
+https://www.ak-akamaized.com/GOGO-1-FHD/tracks-v1a1/mono.m3u8
